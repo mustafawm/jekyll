@@ -3,6 +3,7 @@ layout: post
 title:  "Lorem ipsum dolor sit"
 date:   2015-03-04 08:15:03
 categories: blog
+tags: inspiration
 ---
 
 Nullam quis ante. Vivamus laoreet. Vestibulum eu odio. Aenean imperdiet. Praesent blandit laoreet nibh.
