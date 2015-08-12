@@ -1,3 +1,8 @@
+// * is the universal selector
+// the below line will prevent padding/margin from adding to box height/width
+* {
+    box-sizing: border-box;
+}
 /**
  * Reset some basic elements
  */
